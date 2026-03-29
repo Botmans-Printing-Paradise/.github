@@ -169,10 +169,10 @@ Open an [issue](https://github.com/botmans-printing-paradise) — we don't extru
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 &nbsp;
-<a href="https://discord.gg/YOURINVITE" target="_blank">
+<!-- <a href="https://discord.gg/YOURINVITE" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.reddit.com/user/External_Initial_511/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
